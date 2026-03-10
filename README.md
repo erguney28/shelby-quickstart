@@ -14,7 +14,7 @@ Simple samples to start serving with Shelby
 1. Run `npm run build` or equivalent
 
 ## 🛠️ Setup
-Before working with the code in this repo, ensure that you've completed all of the steps in the [Shelby CLI Getting Started](https://docs.shelby.xyz/tools/cli) guide. This will give you access to the `shelby` command and simplify the steps described below.
+Before working with the code in this repo, ensure that you've completed all of the steps in the [Shelby CLI Getting Started](https://docs.shelby.xyz/tools/cli) guid This will give you access to the `shelby` command and simplify the steps described below.
 
 ## 💻 Usage
 
